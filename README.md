@@ -1,7 +1,7 @@
 # -Data-Model-for-SSTC-
-SSTC Data Model using Power BI
 
-Project Overview
+
+## Project Overview
 In this project, you'll create a data model and Power BI report for Seven Sages Tea Company (SSTC) that combines information from all over the company. Your data model will make it possible for the company's CFO to quickly review and analyze which tea beverages sell well and which ones generate the highest profitability.
 
 At the end, you will have applied the key concepts of this course to combine and centralize data that was previously siloed, solving a very common issue facing many companies. More importantly, you'll have a solid foundation to build on when it comes to more complex reporting visualization demands, advanced DAX requirements, or larger data models. No matter how large the data models get as your career progresses, the core principles remain the same.
@@ -13,7 +13,7 @@ It's a small, but growing company, and the CFO is eager to get some help transla
 
 It's common knowledge that the flagship tea beverage, Bamboo Grove Tea is the company's biggest seller.
 
-But what about the rest?
+## But what about the rest?
 
 The way the data is collected in-house, they are not even sure whether all the products are generating a profit at this stage.
 Seven Sages teas are sold in Washington State (USD) and British Columbia (CAD), so there's a currency consideration as well.
@@ -29,7 +29,7 @@ Seven Sages Tea Company (SSTC) Tab 1
 Illustration of Tab 2 for Seven Sages Tea Company
 Seven Sages Tea Company (SSTC) - Tab 2
 
-Main Steps
+## Main Steps
 Here are the main steps. We'll go over each of these in more detail on the pages that follow.
 
 Source files. Download and familiarize yourself with the source files provided by SSTC.
@@ -43,3 +43,7 @@ Create a report. Build a basic visual report to display your findings.
 The steps for this project follow the exact same flow we've been looking at throughout this course:
 
 A diagram showing the main steps of the Power BI pipeline.
+![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/e1be1ae9-354d-4cd2-8b83-edcc7d76e723)
+![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/3584b2d5-9529-4380-88a2-56e0d602cb49)
+
+
