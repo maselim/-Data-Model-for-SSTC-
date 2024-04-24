@@ -43,7 +43,8 @@ Create a report. Build a basic visual report to display your findings.
 The steps for this project follow the exact same flow we've been looking at throughout this course:
 
 A diagram showing the main steps of the Power BI pipeline.
-![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/e1be1ae9-354d-4cd2-8b83-edcc7d76e723)
-![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/3584b2d5-9529-4380-88a2-56e0d602cb49)
+![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/146c597c-acdd-4223-b4a5-49815239beeb)
+![image](https://github.com/maselim/-Data-Model-for-SSTC-/assets/52356062/fe7daa06-5c8c-4fb4-bd7a-c5b95a37d4d9)
+
 
 
